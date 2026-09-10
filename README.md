@@ -1,6 +1,6 @@
 # Seasonal Agriculture Performance Analysis
 
-A data analytics project analyzing how agricultural performance varies across seasons, using a farm-level dataset covering seasons, states, crops, and irrigation methods across India. Completed as the major project for the VOIS AICTE Internship (Data Visualization track).
+A data analytics project analyzing how agricultural performance varies across seasons, using a farm-level dataset covering seasons, states, crops, and irrigation methods across India. Completed as the major project for the VOIS AICTE Internship.
 
 ## Problem Statement
 
